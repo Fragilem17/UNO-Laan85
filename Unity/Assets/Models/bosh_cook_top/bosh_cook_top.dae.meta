@@ -1,0 +1,721 @@
+fileFormatVersion: 2
+guid: 4e343a53f0380f44b92b3241339546b4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group_0
+    100004: group_1
+    100006: group_2
+    100008: group_2 1
+    100010: group_2 2
+    100012: group_2 3
+    100014: group_3
+    100016: group_3 1
+    100018: group_3 2
+    100020: group_3 3
+    100022: group_4
+    100024: group_4 1
+    100026: group_4 2
+    100028: group_4 3
+    100030: group_5
+    100032: group_5 1
+    100034: group_5 2
+    100036: group_5 3
+    100038: group_6
+    100040: group_7
+    100042: group_8
+    100044: ID106
+    100046: ID114
+    100048: ID122
+    100050: ID129
+    100052: ID135
+    100054: ID139
+    100056: ID14
+    100058: ID151
+    100060: ID165
+    100062: ID179
+    100064: ID193
+    100066: ID206
+    100068: ID212
+    100070: ID220
+    100072: ID226
+    100074: ID234
+    100076: ID242
+    100078: ID248
+    100080: ID255
+    100082: ID259
+    100084: ID263
+    100086: ID275
+    100088: ID289
+    100090: ID303
+    100092: ID317
+    100094: ID32
+    100096: ID330
+    100098: ID336
+    100100: ID344
+    100102: ID350
+    100104: ID358
+    100106: ID366
+    100108: ID372
+    100110: ID379
+    100112: ID383
+    100114: ID387
+    100116: ID399
+    100118: ID413
+    100120: ID427
+    100122: ID441
+    100124: ID454
+    100126: ID46
+    100128: ID460
+    100130: ID468
+    100132: ID474
+    100134: ID482
+    100136: ID490
+    100138: ID496
+    100140: ID503
+    100142: ID507
+    100144: ID511
+    100146: ID521
+    100148: ID529
+    100150: ID535
+    100152: ID543
+    100154: ID551
+    100156: ID557
+    100158: ID563
+    100160: ID569
+    100162: ID577
+    100164: ID583
+    100166: ID591
+    100168: ID597
+    100170: ID60
+    100172: ID605
+    100174: ID611
+    100176: ID617
+    100178: ID625
+    100180: ID631
+    100182: ID639
+    100184: ID645
+    100186: ID653
+    100188: ID659
+    100190: ID665
+    100192: ID671
+    100194: ID677
+    100196: ID683
+    100198: ID689
+    100200: ID695
+    100202: ID701
+    100204: ID707
+    100206: ID713
+    100208: ID719
+    100210: ID725
+    100212: ID73
+    100214: ID733
+    100216: ID739
+    100218: ID752
+    100220: ID760
+    100222: ID766
+    100224: ID774
+    100226: ID782
+    100228: ID79
+    100230: ID790
+    100232: ID796
+    100234: ID804
+    100236: ID810
+    100238: ID818
+    100240: ID824
+    100242: ID92
+    100244: ID98
+    100246: skp_camera_Last_Saved_SketchUp_View
+    400000: //RootNode
+    400002: group_0
+    400004: group_1
+    400006: group_2
+    400008: group_2 1
+    400010: group_2 2
+    400012: group_2 3
+    400014: group_3
+    400016: group_3 1
+    400018: group_3 2
+    400020: group_3 3
+    400022: group_4
+    400024: group_4 1
+    400026: group_4 2
+    400028: group_4 3
+    400030: group_5
+    400032: group_5 1
+    400034: group_5 2
+    400036: group_5 3
+    400038: group_6
+    400040: group_7
+    400042: group_8
+    400044: ID106
+    400046: ID114
+    400048: ID122
+    400050: ID129
+    400052: ID135
+    400054: ID139
+    400056: ID14
+    400058: ID151
+    400060: ID165
+    400062: ID179
+    400064: ID193
+    400066: ID206
+    400068: ID212
+    400070: ID220
+    400072: ID226
+    400074: ID234
+    400076: ID242
+    400078: ID248
+    400080: ID255
+    400082: ID259
+    400084: ID263
+    400086: ID275
+    400088: ID289
+    400090: ID303
+    400092: ID317
+    400094: ID32
+    400096: ID330
+    400098: ID336
+    400100: ID344
+    400102: ID350
+    400104: ID358
+    400106: ID366
+    400108: ID372
+    400110: ID379
+    400112: ID383
+    400114: ID387
+    400116: ID399
+    400118: ID413
+    400120: ID427
+    400122: ID441
+    400124: ID454
+    400126: ID46
+    400128: ID460
+    400130: ID468
+    400132: ID474
+    400134: ID482
+    400136: ID490
+    400138: ID496
+    400140: ID503
+    400142: ID507
+    400144: ID511
+    400146: ID521
+    400148: ID529
+    400150: ID535
+    400152: ID543
+    400154: ID551
+    400156: ID557
+    400158: ID563
+    400160: ID569
+    400162: ID577
+    400164: ID583
+    400166: ID591
+    400168: ID597
+    400170: ID60
+    400172: ID605
+    400174: ID611
+    400176: ID617
+    400178: ID625
+    400180: ID631
+    400182: ID639
+    400184: ID645
+    400186: ID653
+    400188: ID659
+    400190: ID665
+    400192: ID671
+    400194: ID677
+    400196: ID683
+    400198: ID689
+    400200: ID695
+    400202: ID701
+    400204: ID707
+    400206: ID713
+    400208: ID719
+    400210: ID725
+    400212: ID73
+    400214: ID733
+    400216: ID739
+    400218: ID752
+    400220: ID760
+    400222: ID766
+    400224: ID774
+    400226: ID782
+    400228: ID79
+    400230: ID790
+    400232: ID796
+    400234: ID804
+    400236: ID810
+    400238: ID818
+    400240: ID824
+    400242: ID92
+    400244: ID98
+    400246: skp_camera_Last_Saved_SketchUp_View
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: Color_006
+    2100002: BOSCH__Gaskookplaat_-_Zwart_Hardglas__60_cm_PPP616B21E
+    2100004: Color_008
+    2100006: Color_009
+    2100008: K5920D1_-_kopie
+    2100010: Color_004
+    2100012: Color_005
+    2100014: material
+    2100016: black1
+    2300000: group_0
+    2300002: group_1
+    2300004: group_2
+    2300006: group_2 1
+    2300008: group_2 2
+    2300010: group_2 3
+    2300012: group_3
+    2300014: group_3 1
+    2300016: group_3 2
+    2300018: group_3 3
+    2300020: group_4
+    2300022: group_4 1
+    2300024: group_4 2
+    2300026: group_4 3
+    2300028: group_5
+    2300030: group_5 1
+    2300032: group_5 2
+    2300034: group_5 3
+    2300036: group_6
+    2300038: group_7
+    2300040: group_8
+    2300042: ID106
+    2300044: ID114
+    2300046: ID122
+    2300048: ID14
+    2300050: ID151
+    2300052: ID165
+    2300054: ID179
+    2300056: ID193
+    2300058: ID206
+    2300060: ID212
+    2300062: ID220
+    2300064: ID226
+    2300066: ID234
+    2300068: ID242
+    2300070: ID248
+    2300072: ID275
+    2300074: ID289
+    2300076: ID303
+    2300078: ID317
+    2300080: ID32
+    2300082: ID330
+    2300084: ID336
+    2300086: ID344
+    2300088: ID350
+    2300090: ID358
+    2300092: ID366
+    2300094: ID372
+    2300096: ID399
+    2300098: ID413
+    2300100: ID427
+    2300102: ID441
+    2300104: ID454
+    2300106: ID46
+    2300108: ID460
+    2300110: ID468
+    2300112: ID474
+    2300114: ID482
+    2300116: ID490
+    2300118: ID496
+    2300120: ID521
+    2300122: ID529
+    2300124: ID535
+    2300126: ID543
+    2300128: ID551
+    2300130: ID557
+    2300132: ID563
+    2300134: ID569
+    2300136: ID577
+    2300138: ID583
+    2300140: ID591
+    2300142: ID597
+    2300144: ID60
+    2300146: ID605
+    2300148: ID611
+    2300150: ID617
+    2300152: ID625
+    2300154: ID631
+    2300156: ID639
+    2300158: ID645
+    2300160: ID653
+    2300162: ID659
+    2300164: ID665
+    2300166: ID671
+    2300168: ID677
+    2300170: ID683
+    2300172: ID689
+    2300174: ID695
+    2300176: ID701
+    2300178: ID707
+    2300180: ID713
+    2300182: ID719
+    2300184: ID725
+    2300186: ID73
+    2300188: ID733
+    2300190: ID739
+    2300192: ID752
+    2300194: ID760
+    2300196: ID766
+    2300198: ID774
+    2300200: ID782
+    2300202: ID79
+    2300204: ID790
+    2300206: ID796
+    2300208: ID804
+    2300210: ID810
+    2300212: ID818
+    2300214: ID824
+    2300216: ID92
+    2300218: ID98
+    3300000: group_0
+    3300002: group_1
+    3300004: group_2
+    3300006: group_2 1
+    3300008: group_2 2
+    3300010: group_2 3
+    3300012: group_3
+    3300014: group_3 1
+    3300016: group_3 2
+    3300018: group_3 3
+    3300020: group_4
+    3300022: group_4 1
+    3300024: group_4 2
+    3300026: group_4 3
+    3300028: group_5
+    3300030: group_5 1
+    3300032: group_5 2
+    3300034: group_5 3
+    3300036: group_6
+    3300038: group_7
+    3300040: group_8
+    3300042: ID106
+    3300044: ID114
+    3300046: ID122
+    3300048: ID14
+    3300050: ID151
+    3300052: ID165
+    3300054: ID179
+    3300056: ID193
+    3300058: ID206
+    3300060: ID212
+    3300062: ID220
+    3300064: ID226
+    3300066: ID234
+    3300068: ID242
+    3300070: ID248
+    3300072: ID275
+    3300074: ID289
+    3300076: ID303
+    3300078: ID317
+    3300080: ID32
+    3300082: ID330
+    3300084: ID336
+    3300086: ID344
+    3300088: ID350
+    3300090: ID358
+    3300092: ID366
+    3300094: ID372
+    3300096: ID399
+    3300098: ID413
+    3300100: ID427
+    3300102: ID441
+    3300104: ID454
+    3300106: ID46
+    3300108: ID460
+    3300110: ID468
+    3300112: ID474
+    3300114: ID482
+    3300116: ID490
+    3300118: ID496
+    3300120: ID521
+    3300122: ID529
+    3300124: ID535
+    3300126: ID543
+    3300128: ID551
+    3300130: ID557
+    3300132: ID563
+    3300134: ID569
+    3300136: ID577
+    3300138: ID583
+    3300140: ID591
+    3300142: ID597
+    3300144: ID60
+    3300146: ID605
+    3300148: ID611
+    3300150: ID617
+    3300152: ID625
+    3300154: ID631
+    3300156: ID639
+    3300158: ID645
+    3300160: ID653
+    3300162: ID659
+    3300164: ID665
+    3300166: ID671
+    3300168: ID677
+    3300170: ID683
+    3300172: ID689
+    3300174: ID695
+    3300176: ID701
+    3300178: ID707
+    3300180: ID713
+    3300182: ID719
+    3300184: ID725
+    3300186: ID73
+    3300188: ID733
+    3300190: ID739
+    3300192: ID752
+    3300194: ID760
+    3300196: ID766
+    3300198: ID774
+    3300200: ID782
+    3300202: ID79
+    3300204: ID790
+    3300206: ID796
+    3300208: ID804
+    3300210: ID810
+    3300212: ID818
+    3300214: ID824
+    3300216: ID92
+    3300218: ID98
+    4300000: group_0
+    4300002: ID521
+    4300004: ID529
+    4300006: ID535
+    4300008: ID543
+    4300010: ID551
+    4300012: ID557
+    4300014: ID563
+    4300016: ID569
+    4300018: ID577
+    4300020: ID583
+    4300022: ID591
+    4300024: ID597
+    4300026: ID605
+    4300028: ID611
+    4300030: ID617
+    4300032: ID625
+    4300034: ID631
+    4300036: ID639
+    4300038: ID645
+    4300040: ID653
+    4300042: ID659
+    4300044: ID665
+    4300046: ID671
+    4300048: ID677
+    4300050: ID683
+    4300052: ID689
+    4300054: ID695
+    4300056: ID701
+    4300058: ID707
+    4300060: ID713
+    4300062: ID719
+    4300064: ID725
+    4300066: ID733
+    4300068: ID739
+    4300070: ID752
+    4300072: ID760
+    4300074: ID766
+    4300076: ID774
+    4300078: ID782
+    4300080: ID790
+    4300082: ID796
+    4300084: ID804
+    4300086: ID810
+    4300088: ID818
+    4300090: ID824
+    4300092: group_1
+    4300094: ID73
+    4300096: ID79
+    4300098: ID92
+    4300100: ID98
+    4300102: ID106
+    4300104: ID114
+    4300106: ID122
+    4300108: group_2
+    4300110: ID14
+    4300112: group_3
+    4300114: ID32
+    4300116: group_4
+    4300118: ID46
+    4300120: group_5
+    4300122: ID60
+    4300124: group_6
+    4300126: ID206
+    4300128: ID212
+    4300130: ID220
+    4300132: ID226
+    4300134: ID234
+    4300136: ID242
+    4300138: ID248
+    4300140: group_2
+    4300142: ID151
+    4300144: group_3
+    4300146: ID165
+    4300148: group_4
+    4300150: ID179
+    4300152: group_5
+    4300154: ID193
+    4300156: group_7
+    4300158: ID330
+    4300160: ID336
+    4300162: ID344
+    4300164: ID350
+    4300166: ID358
+    4300168: ID366
+    4300170: ID372
+    4300172: group_2
+    4300174: ID275
+    4300176: group_3
+    4300178: ID289
+    4300180: group_4
+    4300182: ID303
+    4300184: group_5
+    4300186: ID317
+    4300188: group_8
+    4300190: ID454
+    4300192: ID460
+    4300194: ID468
+    4300196: ID474
+    4300198: ID482
+    4300200: ID490
+    4300202: ID496
+    4300204: group_2
+    4300206: ID399
+    4300208: group_3
+    4300210: ID413
+    4300212: group_4
+    4300214: ID427
+    4300216: group_5
+    4300218: ID441
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BOSCH__Gaskookplaat_-_Zwart_Hardglas__60_cm_PPP616B21E
+    second: {fileID: 2100000, guid: 1e509fd635e0a90469e450a4527eedef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_004
+    second: {fileID: 2100000, guid: dc8ca551c9f8173429b3a11a90fb2a7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_005
+    second: {fileID: 2100000, guid: 8d9de86005f339248a02747bd84e02cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_006
+    second: {fileID: 2100000, guid: b652ad9b317e43b4c8a1474062c73781, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_008
+    second: {fileID: 2100000, guid: 0a470be28688f6f4b9e4448d127bbc95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_009
+    second: {fileID: 2100000, guid: 8b73fea31be4a5f4daf64501e1447c40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: K5920D1_-_kopie
+    second: {fileID: 2100000, guid: faaa735151d0bb547a49ad7a3dcb245c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black1
+    second: {fileID: 2100000, guid: 7097df0bfd217fb44bd2cb055acdc19a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material
+    second: {fileID: 2100000, guid: a3610c611d74ed74496810778d4d255a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.025
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
