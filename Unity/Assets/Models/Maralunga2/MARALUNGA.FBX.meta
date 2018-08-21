@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 3b26b43b02892ef418abebf4c736df0c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 675-01_Poltrona_LP001
+    100002: 675-02_Divano2Posti_LP001
+    100004: 675-03_Divano3Posti_LP001
+    100006: Group001
+    100008: Group002
+    100010: Group003
+    100012: //RootNode
+    100014: Object038
+    100016: Object039
+    100018: Particle View 01
+    100020: Shape010
+    100022: Shape011
+    100024: Shape012
+    100026: Shape013
+    100028: Shape014
+    100030: Shape015
+    100032: Torei381_appoggiopiano_h230*1001
+    100034: Torei381_base_h230*101
+    100036: Torei381_gambe_h230*1001
+    100038: Torei381_piano_h230*1001
+    100040: Torei381_piedini_h230*1001
+    100042: Vite_013
+    100044: Vite_014
+    100046: Vite_015
+    100048: Vite_016
+    400000: 675-01_Poltrona_LP001
+    400002: 675-02_Divano2Posti_LP001
+    400004: 675-03_Divano3Posti_LP001
+    400006: Group001
+    400008: Group002
+    400010: Group003
+    400012: //RootNode
+    400014: Object038
+    400016: Object039
+    400018: Particle View 01
+    400020: Shape010
+    400022: Shape011
+    400024: Shape012
+    400026: Shape013
+    400028: Shape014
+    400030: Shape015
+    400032: Torei381_appoggiopiano_h230*1001
+    400034: Torei381_base_h230*101
+    400036: Torei381_gambe_h230*1001
+    400038: Torei381_piano_h230*1001
+    400040: Torei381_piedini_h230*1001
+    400042: Vite_013
+    400044: Vite_014
+    400046: Vite_015
+    400048: Vite_016
+    2100000: Polished Marble
+    2100002: Carpaint Black
+    2100004: TESSUTO
+    2300000: 675-01_Poltrona_LP001
+    2300002: 675-02_Divano2Posti_LP001
+    2300004: 675-03_Divano3Posti_LP001
+    2300006: Object038
+    2300008: Object039
+    2300010: Shape010
+    2300012: Shape011
+    2300014: Shape012
+    2300016: Shape013
+    2300018: Shape014
+    2300020: Shape015
+    2300022: Torei381_appoggiopiano_h230*1001
+    2300024: Torei381_base_h230*101
+    2300026: Torei381_gambe_h230*1001
+    2300028: Torei381_piano_h230*1001
+    2300030: Torei381_piedini_h230*1001
+    2300032: Vite_013
+    2300034: Vite_014
+    2300036: Vite_015
+    2300038: Vite_016
+    3300000: 675-01_Poltrona_LP001
+    3300002: 675-02_Divano2Posti_LP001
+    3300004: 675-03_Divano3Posti_LP001
+    3300006: Object038
+    3300008: Object039
+    3300010: Shape010
+    3300012: Shape011
+    3300014: Shape012
+    3300016: Shape013
+    3300018: Shape014
+    3300020: Shape015
+    3300022: Torei381_appoggiopiano_h230*1001
+    3300024: Torei381_base_h230*101
+    3300026: Torei381_gambe_h230*1001
+    3300028: Torei381_piano_h230*1001
+    3300030: Torei381_piedini_h230*1001
+    3300032: Vite_013
+    3300034: Vite_014
+    3300036: Vite_015
+    3300038: Vite_016
+    4300000: Torei381_piano_h230*1001
+    4300002: Torei381_piedini_h230*1001
+    4300004: Vite_014
+    4300006: Torei381_appoggiopiano_h230*1001
+    4300008: Vite_013
+    4300010: Vite_015
+    4300012: Vite_016
+    4300014: Torei381_gambe_h230*1001
+    4300016: Torei381_base_h230*101
+    4300018: 675-01_Poltrona_LP001
+    4300020: Shape013
+    4300022: Shape015
+    4300024: Object039
+    4300026: Shape014
+    4300028: Shape012
+    4300030: Shape011
+    4300032: 675-02_Divano2Posti_LP001
+    4300034: 675-03_Divano3Posti_LP001
+    4300036: Shape010
+    4300038: Object038
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpaint Black
+    second: {fileID: 2100000, guid: 4e8965f9370f0ef44951393c37358dce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Polished Marble
+    second: {fileID: 2100000, guid: 7881db4542acebd479558221d83243f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TESSUTO
+    second: {fileID: 2100000, guid: 11ec752c51ae969468ea8b6a082065bc, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
