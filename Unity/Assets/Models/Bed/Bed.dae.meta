@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: c1892d2998bed8342ad11e8fc0a878a9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ID101
+    100004: ID109
+    100006: ID122
+    100008: ID135
+    100010: ID143
+    100012: ID151
+    100014: ID159
+    100016: ID169
+    100018: ID17
+    100020: ID17 1
+    100022: ID177
+    100024: ID185
+    100026: ID193
+    100028: ID201
+    100030: ID209
+    100032: ID23
+    100034: ID23 1
+    100036: ID27
+    100038: ID27 1
+    100040: ID31
+    100042: ID31 1
+    100044: ID35
+    100046: ID35 1
+    100048: ID39
+    100050: ID39 1
+    100052: ID64
+    100054: ID64 1
+    100056: ID70
+    100058: ID70 1
+    100060: ID74
+    100062: ID74 1
+    100064: ID78
+    100066: ID78 1
+    100068: ID82
+    100070: ID82 1
+    100072: instance_0
+    100074: instance_1
+    100076: instance_1 1
+    100078: instance_2
+    100080: instance_3
+    100082: instance_4
+    100084: instance_4 1
+    100086: instance_5
+    100088: Kussen
+    100090: Kussen 1
+    100092: Kussen_gestreept
+    100094: Kussen_gestreept 1
+    100096: pillow_1
+    100098: pillow_1 1
+    100100: pillow_2
+    100102: pillow_2 1
+    100104: skp_camera_Last_Saved_SketchUp_View
+    400000: //RootNode
+    400002: ID101
+    400004: ID109
+    400006: ID122
+    400008: ID135
+    400010: ID143
+    400012: ID151
+    400014: ID159
+    400016: ID169
+    400018: ID17
+    400020: ID17 1
+    400022: ID177
+    400024: ID185
+    400026: ID193
+    400028: ID201
+    400030: ID209
+    400032: ID23
+    400034: ID23 1
+    400036: ID27
+    400038: ID27 1
+    400040: ID31
+    400042: ID31 1
+    400044: ID35
+    400046: ID35 1
+    400048: ID39
+    400050: ID39 1
+    400052: ID64
+    400054: ID64 1
+    400056: ID70
+    400058: ID70 1
+    400060: ID74
+    400062: ID74 1
+    400064: ID78
+    400066: ID78 1
+    400068: ID82
+    400070: ID82 1
+    400072: instance_0
+    400074: instance_1
+    400076: instance_1 1
+    400078: instance_2
+    400080: instance_3
+    400082: instance_4
+    400084: instance_4 1
+    400086: instance_5
+    400088: Kussen
+    400090: Kussen 1
+    400092: Kussen_gestreept
+    400094: Kussen_gestreept 1
+    400096: pillow_1
+    400098: pillow_1 1
+    400100: pillow_2
+    400102: pillow_2 1
+    400104: skp_camera_Last_Saved_SketchUp_View
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: Wood_Cherry_Original
+    2100002: White_0
+    2100004: __Beige_2
+    2100006: Color_009
+    2100008: Color_C23
+    2100010: White
+    2300000: //RootNode
+    2300002: ID101
+    2300004: ID109
+    2300006: ID122
+    2300008: ID135
+    2300010: ID143
+    2300012: ID151
+    2300014: ID159
+    2300016: ID169
+    2300018: ID177
+    2300020: ID185
+    2300022: ID193
+    2300024: ID201
+    2300026: ID209
+    2300028: pillow_1
+    2300030: pillow_1 1
+    2300032: pillow_2
+    2300034: pillow_2 1
+    3300000: //RootNode
+    3300002: ID101
+    3300004: ID109
+    3300006: ID122
+    3300008: ID135
+    3300010: ID143
+    3300012: ID151
+    3300014: ID159
+    3300016: ID169
+    3300018: ID177
+    3300020: ID185
+    3300022: ID193
+    3300024: ID201
+    3300026: ID209
+    3300028: pillow_1
+    3300030: pillow_1 1
+    3300032: pillow_2
+    3300034: pillow_2 1
+    4300000: SketchUp
+    4300002: ID101
+    4300004: ID109
+    4300006: ID122
+    4300008: ID135
+    4300010: ID143
+    4300012: ID151
+    4300014: ID159
+    4300016: ID169
+    4300018: ID177
+    4300020: ID185
+    4300022: ID193
+    4300024: ID201
+    4300026: ID209
+    4300028: pillow_1
+    4300030: pillow_2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_009
+    second: {fileID: 2100000, guid: 74d6d55d261258948969e7f665df8f4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_C23
+    second: {fileID: 2100000, guid: 3b595cc462b4eb2428572f36e185760e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White
+    second: {fileID: 2100000, guid: 8ccf0a03f347fd6429fa0e9aefb96fca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White_0
+    second: {fileID: 2100000, guid: 933c8328a7ff06143a472a717a8fa846, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_Cherry_Original
+    second: {fileID: 2100000, guid: 9e196daf32f04c148a804051b83320fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: __Beige_2
+    second: {fileID: 2100000, guid: 7d3c87fded9732a46860759ecaaf170b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.025
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
