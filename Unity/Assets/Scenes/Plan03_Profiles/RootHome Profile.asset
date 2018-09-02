@@ -80,7 +80,7 @@ MonoBehaviour:
     value: 1
   focusDistance:
     overrideState: 1
-    value: 2.62
+    value: 1.58
   aperture:
     overrideState: 0
     value: 5.6
@@ -155,13 +155,13 @@ MonoBehaviour:
     value: 1
   filtering:
     overrideState: 1
-    value: {x: 1, y: 99}
+    value: {x: 72.42373, y: 99}
   minLuminance:
     overrideState: 1
-    value: -9
+    value: -1
   maxLuminance:
     overrideState: 1
-    value: 9
+    value: 6.9
   keyValue:
     overrideState: 1
     value: 1
@@ -170,10 +170,10 @@ MonoBehaviour:
     value: 0
   speedUp:
     overrideState: 1
-    value: 0.4
+    value: 100
   speedDown:
     overrideState: 1
-    value: 0.4
+    value: 0.1
 --- !u!114 &114940419482798812
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -190,8 +190,8 @@ MonoBehaviour:
     overrideState: 1
     value: 1
   preset:
-    overrideState: 0
-    value: 3
+    overrideState: 1
+    value: 5
   maximumIterationCount:
     overrideState: 0
     value: 16
@@ -202,11 +202,11 @@ MonoBehaviour:
     overrideState: 0
     value: 8
   maximumMarchDistance:
-    overrideState: 0
-    value: 100
+    overrideState: 1
+    value: 14
   distanceFade:
-    overrideState: 0
-    value: 0.5
+    overrideState: 1
+    value: 0.798
   vignette:
     overrideState: 0
     value: 0.5
