@@ -17,6 +17,10 @@ namespace Entropedia
 		float latitude;
 
 		[SerializeField]
+		[Range(1, 12)]
+		int month;
+
+		[SerializeField]
 		[Range(0, 24)]
 		int hour;
 
@@ -69,7 +73,10 @@ namespace Entropedia
 
 		private void OnValidate()
 		{
-			time = DateTime.Now.Date + new TimeSpan(hour, minutes, 0);
+			DateTime today = DateTime.Now.Date;
+			DateTime date = new DateTime(today.Year, month, today.Day);
+			time = date + new TimeSpan(hour, minutes, 0);
+			Debug.Log(time);
 		}
 
 		private void Update()
