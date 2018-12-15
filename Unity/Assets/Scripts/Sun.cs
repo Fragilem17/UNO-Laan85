@@ -21,6 +21,10 @@ namespace Entropedia
 		int month;
 
 		[SerializeField]
+		[Range(1, 31)]
+		int day;
+
+		[SerializeField]
 		[Range(0, 24)]
 		int hour;
 
@@ -69,12 +73,15 @@ namespace Entropedia
 			hour = time.Hour;
 			minutes = time.Minute;
 
+			DateTime today = DateTime.Now.Date;
+			day = today.Day;
+			month = today.Month;
 		}
 
 		private void OnValidate()
 		{
 			DateTime today = DateTime.Now.Date;
-			DateTime date = new DateTime(today.Year, month, today.Day);
+			DateTime date = new DateTime(today.Year, month, day);
 			time = date + new TimeSpan(hour, minutes, 0);
 			Debug.Log(time);
 		}
