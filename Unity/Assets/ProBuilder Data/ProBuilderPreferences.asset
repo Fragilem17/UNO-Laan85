@@ -4,24 +4,40 @@
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 680703436, guid: 4f0627da958b4bb78c260446066f065f, type: 3}
   m_Name: ProBuilderPreferences
   m_EditorClassIdentifier: 
-  m_Bool_keys: []
+  m_Bool_keys:
+  - pbEnableBackfaceSelection
+  - pbDetachToNewObject
   m_Int_keys:
   - pbDefaultEditLevel
   - pbDefaultSelectionMode
-  m_Float_keys: []
-  m_String_keys: []
+  - pbHandleAlignment
+  - pb_GIWorkflowMode
+  - pbDragSelectMode
+  m_Float_keys:
+  - pbEditorScroll.x
+  - pbEditorScroll.y
+  - pbWeldDistance
+  - pbBevelAmount
+  m_String_keys:
+  - pbCurrentMaterialPalette
   m_Color_keys: []
   m_Material_keys: []
-  m_Bool_values: 
-  m_Int_values: 0100000002000000
-  m_Float_values: []
-  m_String_values: []
+  m_Bool_values: 0101
+  m_Int_values: 0000000002000000000000000100000002000000
+  m_Float_values:
+  - 0
+  - 0
+  - 0.001
+  - 0.0015
+  m_String_values:
+  - Assets/ProBuilder Data/Default Material Palette.asset
   m_Color_values: []
   m_Material_values: []

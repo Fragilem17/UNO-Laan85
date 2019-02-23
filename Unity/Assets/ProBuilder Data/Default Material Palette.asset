@@ -4,7 +4,8 @@
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -36,3 +37,5 @@ MonoBehaviour:
   - {fileID: 2100000, guid: f9e5486976dee76408c28d9fc721a085, type: 2}
   - {fileID: 2100000, guid: 8ed08dac8fbbd5b40ad5e32d39caf8e2, type: 2}
   - {fileID: 2100000, guid: 09d6fe1a1f11dff42824b2c5c9663ca8, type: 2}
+  - {fileID: 2100000, guid: f32ee9570a51ffc4794b03c9292b4e2f, type: 2}
+  - {fileID: 2100000, guid: a2dd6ec6d015e03409d230a9962151d4, type: 2}
