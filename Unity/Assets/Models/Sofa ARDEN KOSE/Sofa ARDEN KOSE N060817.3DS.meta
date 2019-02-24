@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: f9e2fb4daeac47f48b579db9771f8349
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box002
+    100002: Box004
+    100004: Box005
+    100006: Box007
+    100008: Box008
+    100010: Box009
+    100012: Box010
+    100014: Box011
+    100016: Box012
+    100018: Box013
+    100020: Box014
+    100022: Box015
+    100024: Box016
+    100026: obj_014
+    100028: obj_015
+    100030: obj_016
+    100032: obj_017
+    100034: obj_018
+    100036: obj_019
+    100038: obj_020
+    100040: obj_021
+    100042: obj_022
+    100044: obj_023
+    100046: obj_024
+    100048: obj_025
+    100050: obj_026
+    100052: piedini
+    100054: Rectangle0
+    100056: Rectangle1
+    100058: //RootNode
+    400000: Box002
+    400002: Box004
+    400004: Box005
+    400006: Box007
+    400008: Box008
+    400010: Box009
+    400012: Box010
+    400014: Box011
+    400016: Box012
+    400018: Box013
+    400020: Box014
+    400022: Box015
+    400024: Box016
+    400026: obj_014
+    400028: obj_015
+    400030: obj_016
+    400032: obj_017
+    400034: obj_018
+    400036: obj_019
+    400038: obj_020
+    400040: obj_021
+    400042: obj_022
+    400044: obj_023
+    400046: obj_024
+    400048: obj_025
+    400050: obj_026
+    400052: piedini
+    400054: Rectangle0
+    400056: Rectangle1
+    400058: //RootNode
+    2100000: st leather
+    2100002: standart metal
+    2100004: st textile
+    2300000: Box002
+    2300002: Box004
+    2300004: Box005
+    2300006: Box007
+    2300008: Box008
+    2300010: Box009
+    2300012: Box010
+    2300014: Box011
+    2300016: Box012
+    2300018: Box013
+    2300020: Box014
+    2300022: Box015
+    2300024: Box016
+    2300026: obj_014
+    2300028: obj_015
+    2300030: obj_016
+    2300032: obj_017
+    2300034: obj_018
+    2300036: obj_019
+    2300038: obj_020
+    2300040: obj_021
+    2300042: obj_022
+    2300044: obj_023
+    2300046: obj_024
+    2300048: obj_025
+    2300050: obj_026
+    2300052: piedini
+    2300054: Rectangle0
+    2300056: Rectangle1
+    3300000: Box002
+    3300002: Box004
+    3300004: Box005
+    3300006: Box007
+    3300008: Box008
+    3300010: Box009
+    3300012: Box010
+    3300014: Box011
+    3300016: Box012
+    3300018: Box013
+    3300020: Box014
+    3300022: Box015
+    3300024: Box016
+    3300026: obj_014
+    3300028: obj_015
+    3300030: obj_016
+    3300032: obj_017
+    3300034: obj_018
+    3300036: obj_019
+    3300038: obj_020
+    3300040: obj_021
+    3300042: obj_022
+    3300044: obj_023
+    3300046: obj_024
+    3300048: obj_025
+    3300050: obj_026
+    3300052: piedini
+    3300054: Rectangle0
+    3300056: Rectangle1
+    4300000: Box002
+    4300002: Rectangle0
+    4300004: Box004
+    4300006: Box005
+    4300008: Box007
+    4300010: Box008
+    4300012: Box009
+    4300014: obj_014
+    4300016: obj_015
+    4300018: obj_016
+    4300020: obj_017
+    4300022: obj_018
+    4300024: obj_019
+    4300026: obj_020
+    4300028: Box010
+    4300030: Box011
+    4300032: Box012
+    4300034: Box013
+    4300036: Box014
+    4300038: Box015
+    4300040: Box016
+    4300042: obj_021
+    4300044: obj_022
+    4300046: obj_023
+    4300048: obj_024
+    4300050: obj_025
+    4300052: obj_026
+    4300054: Rectangle1
+    4300056: piedini
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: st leather
+    second: {fileID: 2100000, guid: a1de61a8533db4f4a9f45228af55e625, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: st textile
+    second: {fileID: 2100000, guid: 7d3c87fded9732a46860759ecaaf170b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: standart metal
+    second: {fileID: 2100000, guid: 5bc2817763c4f0a498d39fccdb1686bb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.001
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
